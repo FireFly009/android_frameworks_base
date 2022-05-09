@@ -125,6 +125,7 @@
                     android:background="@drawable/volume_background_bottom"
                     android:paddingTop="@dimen/volume_dialog_ringer_rows_padding"
                     android:paddingLeft="@dimen/volume_dialog_ringer_rows_padding"
+                    android:paddingBottom="@dimen/volume_dialog_ringer_rows_padding"
                     android:paddingRight="@dimen/volume_dialog_ringer_rows_padding">
                     <com.android.keyguard.AlphaOptimizedImageButton
                         android:id="@+id/settings"
